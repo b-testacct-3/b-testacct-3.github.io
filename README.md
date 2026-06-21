@@ -1,10 +1,7 @@
-# templatesite
+# SJ Land Template
 
-Minimal multi-page GitHub Pages site.
+Static GitHub Pages template based on https://www.sj.land/.
 
-Pages:
+Source repository: https://github.com/sjzhan9/sj-land
 
-- `index.html`
-- `notes.html`
-- `projects.html`
-- `contact.html`
+The upstream project is a Next.js app with Notion-backed data. This folder contains a static adaptation that can be committed directly to a GitHub Pages repository by the Portfolio Provisioner app.
